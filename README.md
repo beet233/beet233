@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
++ 💻 I'm an undergraduate student of Software Engineering at [Zhejiang University](https://www.zju.edu.cn/).
++ 🐬 I'll become an intern of Ctrip Group ([Trip.com](https://trip.com) && [携程旅行网](https://www.ctrip.com)) in May.
++ 👨‍👦‍👦 I participated in ASoC (Alibaba Summer of Code) in 2022 and contributed 1000+ lines of code about observability to [alibaba/nacos](https://github.com/alibaba/nacos).
++ 📝 Visit [my blog](http://beet.asia) to learn about my recent work and notes.
++ ☕ Java is elegant.
++ 💟 Fan of Animal Crossing, Pokémon, Mario and more about ACG.
+
+![saki](https://beetpic.oss-cn-hangzhou.aliyuncs.com/img/202304140010353.png)
