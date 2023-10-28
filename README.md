@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 + 📝 Visit [my blog](http://beet.asia) to learn about my recent work and notes.
 + ☕ Java is elegant.
 + 💟 Fan of Animal Crossing, Pokémon, Mario and more about ACG.
-
-![saki](https://beetpic.oss-cn-hangzhou.aliyuncs.com/img/202304140010353.png)
