@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 + 💻 I'm an undergraduate student of Software Engineering at [Zhejiang University](https://www.zju.edu.cn/).
-+ 🐬 I'm an intern of Ctrip Group ([Trip.com](https://trip.com) && [携程旅行网](https://www.ctrip.com)), mainly doing hotel-related development.
++ 🐬 I used to be an intern of Trip.com Group ([Trip.com](https://trip.com) && [携程旅行网](https://www.ctrip.com)), mainly doing hotel-related development.
 + 👨‍👦‍👦 I participated in ASoC (Alibaba Summer of Code) in 2022 and contributed 1000+ lines of code about observability to [alibaba/nacos](https://github.com/alibaba/nacos).
++ 🛒 Will graduate and join Alibaba Group next year.
 + 📝 Visit [my blog](http://beet.asia) to learn about my recent work and notes.
-+ ☕ Java is elegant.
-+ 💟 Fan of Animal Crossing, Pokémon, Mario and more about ACG.
++ ☕ Java is my favorite.
++ 💟 Fan of Nintendo.
